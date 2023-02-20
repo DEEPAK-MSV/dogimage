@@ -1,0 +1,3 @@
+.dogimg {position: 'absolute'; top: '50%'; left: '50%'; transform: 'translate(-50%, -50%)'; Width: '100%'; Height: '100%'}
+.container {display: flex; flex: 1; flex-direction: column; justify-content: center; align-items: center;}
+.imagecontainer {height: 400; width: 400; justify-content: center; align-items: center; border-color: black; border-width: 2; display: inline;}
